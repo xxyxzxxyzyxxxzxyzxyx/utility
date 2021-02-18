@@ -1,0 +1,2 @@
+# start docker
+sudo service docker start
